@@ -1,0 +1,9 @@
+- Fluxo de caixa: medida do dinheiro que entra e sai da empresa em um determinado período de tempo. 
+- Margem de lucro: porcentagem de lucro que a empresa ganha em cada venda. Calculada dividindo o lucro líquido pela receita total.
+- Retorno sobre o investimento (ROI): medida do retorno que a empresa obtem de seus investimentos. Calculado dividindo o lucro pelo investimento inicial.
+- Endividamento: medida da quantidade de dívida da empresa em relação ao patrimônio líquido. Calculado dividindo a dívida total plo patrimônio líquido.
+- Faturamento: receita total que a empresa gera em um determinado período de tempo.
+- Custo de aquisição de clientes (CAC): quantidade de dinheiro que a empresa gasta para adquirir novos clientes. Calculado dividindo o custo total de marketing e vendas 
+pelo número de novos clientes.
+- Prazo médio de pagamento (PMP): tempo médio que a empresa leva para pagar seus fornecedores. Calculado dividindo o valor total das compras pelo valor total pago a 
+fornecedores em um determinado período de tempo.
