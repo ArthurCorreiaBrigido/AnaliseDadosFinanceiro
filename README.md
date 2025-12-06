@@ -14,3 +14,15 @@ Este projeto de Análise de Dados em Python visa estudar as finanças de uma emp
 - Gerar visualizações (gráficos de barras, linhas e scatter) que facilitem a interpretação dos resultados.
 
 ## Estrutura do Projeto
+├── DadosFinanceiros.xlsx - Base de dados original
+├── AnaliseFinanceira.ipynb - Notebook com todo o código e gráficos
+├── README.md
+
+## Tecnologias e Bibliotecas
+
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook
